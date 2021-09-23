@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Yacht\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\User\source\repos\Yacht\Yacht\bin\Debug\Yacht.exe
+C:\Users\User\source\repos\Yacht\Yacht\bin\Debug\Yacht.pdb
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.Form1.resources
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.exe
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.pdb
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.Form2.resources
+C:\Users\User\source\repos\Yacht\Yacht\obj\Debug\Yacht.Form3.resources

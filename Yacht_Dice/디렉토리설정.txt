@@ -1,0 +1,2 @@
+@"C:\Users\User\source\repos
+디렉토리 아래에 Yacht 파일이 있어야합니다
